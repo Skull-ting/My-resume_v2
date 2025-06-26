@@ -204,7 +204,7 @@ h4{
     }
     .banner img{
       width: 100%;
-      height: calc(100vh - 50px);
+      height: auto;
     }
 
 
